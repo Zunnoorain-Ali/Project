@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: cadetblue;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 24px;
+    align-items: center;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+}
